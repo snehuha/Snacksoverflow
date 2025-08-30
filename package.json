@@ -1,3 +1,5 @@
+
+
 {
   "name": "snacksoverflow",
   "version": "1.0.0",
@@ -17,8 +19,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@esbuild/darwin-arm64": "^0.25.9",
-    "@rollup/rollup-darwin-arm64": "^4.49.0",
     "@tailwindcss/line-clamp": "^0.4.4",
     "@vitejs/plugin-react": "^4.0.0",
     "autoprefixer": "^10.4.21",
